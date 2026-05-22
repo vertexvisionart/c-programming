@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.out
+*.exe
+a.out
+
+# Editor / tooling
+.idea/
+.vscode/
+.qwen/
+.ruff_cache/
+__pycache__/
+
+# Generated test data
+testcases/
+input.txt
+output.txt
