@@ -12,6 +12,9 @@ Mostly C99.
   GCD, balanced brackets, merge sort.
 - [`leetcode/`](leetcode/) — short, function-only solutions in the
   LeetCode submission style.
+- [`packs/`](packs/) — topical packs (numerical methods, graphs,
+  parsers, data structures). ~140 exercises across `pack_15`–`pack_21`
+  plus `22`–`25`, `123`, `test_scr`.
 
 ## Build
 
